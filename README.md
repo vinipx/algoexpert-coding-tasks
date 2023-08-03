@@ -1,5 +1,5 @@
 # algoexpert-coding-tasks
-Looking for ways to sharp your algo skills and get prepared for interviews? 
+Looking for ways to sharpen your algo skills and get prepared for interviews? 
 
 **Join our repository of coding tasks & solutions!**
 
