@@ -6,7 +6,7 @@ Looking for ways to sharpen your algo skills and get prepared for interviews?
 ## Objective:
 This repository contains groups of frequently asked coding tasks (based on [algoexpert.io](https://www.algoexpert.io/)) during coding interviews.
 
-> We highly recommend AlgoExpert.io as a great platform and practice coding interview questions
+> We highly recommend AlgoExpert.io as a great platform to learn and practice coding interview questions
 
 There are **3 main categories** to be explored: **easy**, **medium**, and **hard**.
 
