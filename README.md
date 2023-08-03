@@ -3,7 +3,6 @@ Looking for ways to sharp your algo skills and get prepared for interviews?
 
 **Join our repository of coding tasks & solutions!**
 
----
 ## Objective:
 This repository contains groups of frequently asked coding tasks (based on algoexpert.io) during coding interviews. 
 
@@ -29,7 +28,6 @@ The **time and space complexity** will be calculated for each solution as well a
 - [Sorted Squared Array](https://github.com/vinipx/algoexpert-coding-tasks/blob/main/src/test/java/easy/SortedSquaredArrayTest.java)
 - [Tournament Winner](https://github.com/vinipx/algoexpert-coding-tasks/blob/main/src/test/java/easy/TournamentWinnerTest.java)
 
----
 ## Contribute
 
 Feeling ready to contribute with new problems and solutions? 
