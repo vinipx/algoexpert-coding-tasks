@@ -29,7 +29,7 @@ public class NonConstructibleChangeTest {
     }
 
     @Test
-    public void subsequenceTest() {
+    public void findNonConstructibleChangeTest() {
         int[] array = { 5, 7, 1, 1, 2, 3, 22 };
         int minimumChange = getMinimumChange(array);
         Assert.assertEquals(minimumChange, 20);
