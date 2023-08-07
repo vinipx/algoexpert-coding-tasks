@@ -29,6 +29,7 @@ The **time and space complexity** will be calculated for each solution as well a
 - [Validate Subsequence](https://github.com/vinipx/algoexpert-coding-tasks/blob/main/src/test/java/easy/ValidateSubsequenceTest.java)
 - [Sorted Squared Array](https://github.com/vinipx/algoexpert-coding-tasks/blob/main/src/test/java/easy/SortedSquaredArrayTest.java)
 - [Tournament Winner](https://github.com/vinipx/algoexpert-coding-tasks/blob/main/src/test/java/easy/TournamentWinnerTest.java)
+- [Non-Constructible Change](https://github.com/vinipx/algoexpert-coding-tasks/blob/main/src/test/java/easy/NonConstructibleChangeTest.java)
 
 ## Contribute
 
